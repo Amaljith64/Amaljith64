@@ -15,7 +15,7 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 
 <!-- stats -->
 
-[![Amaljith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaljith64&show_icons=true&theme=dark)](https://github.com/amaljith64/github-readme-stats)
+<!-- [![Amaljith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaljith64&show_icons=true&theme=dark)](https://github.com/amaljith64/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaljith64&layout=compact&show_icons=true&theme=dark)](https://github.com/amaljith64/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaljith64&layout=compact&show_icons=true&theme=dark)](https://github.com/amaljith64/github-readme-stats) -->
