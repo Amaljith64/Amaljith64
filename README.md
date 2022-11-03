@@ -1,4 +1,7 @@
-## Hi there 👋 I'm Amaljith
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Amaljith
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Self+Taught+Developer;Competitive+Programmer;"></a>
+</p>
 
 A tech enthusiast, highly self-motivated and passionate about learning new things.
 *   ⌨  Django web developer
@@ -19,3 +22,13 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaljith64&layout=compact&show_icons=true&theme=dark)](https://github.com/amaljith64/github-readme-stats) -->
+
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/amaljith64/count.svg" />  
+</p>
