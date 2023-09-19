@@ -7,7 +7,7 @@ A tech enthusiast, highly self-motivated and passionate about learning new thing
 *   ⌨  Django web developer
 *   🚀  Currently focusing on React Front-end development
 *   ✉️  You can contact me at [amaljith64@gmail.com](mailto:amaljith64@gmail.com)
-*   🖥️  See my portfolio at [Amaljith]([https://amaljith64.github.io/Amaljithportfolio/](https://amaljithportfolio.vercel.app/))
+*   🖥️  See my portfolio at [Amaljith](https://amaljithportfolio.vercel.app/)
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   ⚡  I can kick myself in the head
 
